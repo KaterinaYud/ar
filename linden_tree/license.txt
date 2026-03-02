@@ -1,0 +1,11 @@
+Model Information:
+* title:	Linden tree
+* source:	https://sketchfab.com/3d-models/linden-tree-c0c3aa73cc9945d2a36c01a0d8d6d4bb
+* author:	Georgeous (https://sketchfab.com/intice184)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Linden tree" (https://sketchfab.com/3d-models/linden-tree-c0c3aa73cc9945d2a36c01a0d8d6d4bb) by Georgeous (https://sketchfab.com/intice184) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

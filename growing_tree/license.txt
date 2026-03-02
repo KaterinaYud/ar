@@ -1,0 +1,11 @@
+Model Information:
+* title:	Growing Tree
+* source:	https://sketchfab.com/3d-models/growing-tree-73f6fd026f6d465ea8608ee239a938d5
+* author:	Paul (https://sketchfab.com/nathan.d1563)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Growing Tree" (https://sketchfab.com/3d-models/growing-tree-73f6fd026f6d465ea8608ee239a938d5) by Paul (https://sketchfab.com/nathan.d1563) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

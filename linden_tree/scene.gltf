@@ -1,0 +1,496 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 12440,
+      "max": [
+        33729.1171875,
+        37711.24609375,
+        119816.0
+      ],
+      "min": [
+        -38168.73046875,
+        -37406.73046875,
+        -19605.91015625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 149280,
+      "componentType": 5126,
+      "count": 12440,
+      "max": [
+        0.9999994039535522,
+        0.999704122543335,
+        0.9999926090240479
+      ],
+      "min": [
+        -0.9994182586669922,
+        -0.9999858140945435,
+        -0.9998239278793335
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 12440,
+      "max": [
+        0.9999737739562988,
+        0.99998939037323,
+        0.9999604821205139,
+        1.0
+      ],
+      "min": [
+        -0.9999874234199524,
+        -0.9999580979347229,
+        -0.9997735023498535,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 12440,
+      "max": [
+        4.066629409790039,
+        10.528475761413574
+      ],
+      "min": [
+        -1.1541470289230347,
+        -1.2496891021728516
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 99520,
+      "componentType": 5126,
+      "count": 12440,
+      "max": [
+        1.0000001192092896,
+        0.9986920356750488
+      ],
+      "min": [
+        0.0,
+        -0.15856997668743134
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 199040,
+      "componentType": 5126,
+      "count": 12440,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 298560,
+      "componentType": 5126,
+      "count": 12440,
+      "max": [
+        4.066629409790039,
+        10.528475761413574
+      ],
+      "min": [
+        -1.1541470289230347,
+        -1.2496891021728516
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 50067,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 298560,
+      "componentType": 5126,
+      "count": 33053,
+      "max": [
+        40590.171875,
+        42132.01171875,
+        127221.6796875
+      ],
+      "min": [
+        -41790.78515625,
+        -42548.20703125,
+        20206.39453125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 695196,
+      "componentType": 5126,
+      "count": 33053,
+      "max": [
+        0.9997889399528503,
+        0.9999670386314392,
+        0.9999914169311523
+      ],
+      "min": [
+        -0.9999500513076782,
+        -0.999954342842102,
+        -0.9987446069717407
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 199040,
+      "componentType": 5126,
+      "count": 33053,
+      "max": [
+        0.999893844127655,
+        0.9997876286506653,
+        0.9999757409095764,
+        1.0
+      ],
+      "min": [
+        -0.9999009370803833,
+        -0.9999754428863525,
+        -0.9999707937240601,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 398080,
+      "componentType": 5126,
+      "count": 33053,
+      "max": [
+        0.9280898571014404,
+        1.0
+      ],
+      "min": [
+        0.013365029357373714,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 662504,
+      "componentType": 5126,
+      "count": 33053,
+      "max": [
+        1.0,
+        0.9986920356750488
+      ],
+      "min": [
+        1.0,
+        0.9986920356750488
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 926928,
+      "componentType": 5126,
+      "count": 33053,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1191352,
+      "componentType": 5126,
+      "count": 33053,
+      "max": [
+        0.9280898571014404,
+        1.0
+      ],
+      "min": [
+        0.013365029357373714,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 200268,
+      "componentType": 5125,
+      "count": 88641,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Georgeous (https://sketchfab.com/intice184)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/linden-tree-c0c3aa73cc9945d2a36c01a0d8d6d4bb",
+      "title": "Linden tree"
+    },
+    "generator": "Sketchfab-16.73.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 554832,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1455776,
+      "byteOffset": 554832,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1091832,
+      "byteOffset": 2010608,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 727888,
+      "byteOffset": 3102440,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3830328,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/M_Bark.005_baseColor.png"
+    },
+    {
+      "uri": "textures/M_Bark.005_normal.png"
+    },
+    {
+      "uri": "textures/M_Branch.005_baseColor.png"
+    },
+    {
+      "uri": "textures/M_Branch.005_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "M_Bark.005",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "alphaCutoff": 0.2605722226962977,
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "name": "M_Branch.005",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Linden_LOD0_M_Bark.005_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Linden_LOD0_M_Branch.005_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11,
+            "TEXCOORD_1": 12,
+            "TEXCOORD_2": 13,
+            "TEXCOORD_3": 14
+          },
+          "indices": 15,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -1.0,
+        2.832769343193999e-16,
+        6.290011496532519e-32,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        -2.832769343193999e-16,
+        -1.0,
+        -2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "SM_Linden.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        0.012285701930522756,
+        -2.001594973525666e-09,
+        0.0,
+        0.0,
+        2.001594973525666e-09,
+        0.012285701930522756,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.012285701930522919,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Linden_LOD0"
+    },
+    {
+      "mesh": 0,
+      "name": "Linden_LOD0_M_Bark.005_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Linden_LOD0_M_Branch.005_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
