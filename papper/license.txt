@@ -1,0 +1,11 @@
+Model Information:
+* title:	Papper vegetable
+* source:	https://sketchfab.com/3d-models/papper-vegetable-ac7a64f0ad1c4f11b81689b7bc20c3ff
+* author:	Mivinka (https://sketchfab.com/Hirahiraa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Papper vegetable" (https://sketchfab.com/3d-models/papper-vegetable-ac7a64f0ad1c4f11b81689b7bc20c3ff) by Mivinka (https://sketchfab.com/Hirahiraa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

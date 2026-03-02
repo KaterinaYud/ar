@@ -1,0 +1,11 @@
+Model Information:
+* title:	Purple Onion
+* source:	https://sketchfab.com/3d-models/purple-onion-70fdef1abc1744e3a3e0a828d6821fbf
+* author:	mjkzz (https://sketchfab.com/mjkzz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Purple Onion" (https://sketchfab.com/3d-models/purple-onion-70fdef1abc1744e3a3e0a828d6821fbf) by mjkzz (https://sketchfab.com/mjkzz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

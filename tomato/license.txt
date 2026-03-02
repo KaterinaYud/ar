@@ -1,0 +1,11 @@
+Model Information:
+* title:	'tomato'
+* source:	https://sketchfab.com/3d-models/tomato-e1b22565fc6942a2866bdf8b51cf567a
+* author:	B.F.C (https://sketchfab.com/B.F.C)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "'tomato'" (https://sketchfab.com/3d-models/tomato-e1b22565fc6942a2866bdf8b51cf567a) by B.F.C (https://sketchfab.com/B.F.C) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
