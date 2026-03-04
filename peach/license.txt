@@ -1,0 +1,11 @@
+Model Information:
+* title:	Overripe Yellow peach
+* source:	https://sketchfab.com/3d-models/overripe-yellow-peach-fd2b4355868c45538050e56ec3024f0c
+* author:	Imagineer (https://sketchfab.com/kmorris1077)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Overripe Yellow peach" (https://sketchfab.com/3d-models/overripe-yellow-peach-fd2b4355868c45538050e56ec3024f0c) by Imagineer (https://sketchfab.com/kmorris1077) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
